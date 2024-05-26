@@ -40,6 +40,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ElnazEskandari&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-###
-<div align="center">
 ![](https://visitcount.itsvg.in/api?id=ElnazEskandari&icon=5&color=5)](https://visitcount.itsvg.in)
